@@ -11,7 +11,7 @@ Built on https://github.com/mitchellh/boot2docker-vagrant-box
 * Checkout this project
 * `vagrant up`
 
-### Setup [Putty](https://puttytray.goeswhere.com/))
+### Setup [Putty](https://puttytray.goeswhere.com/)
 * Click Keygen
 * Load C:/Users/_username_/.vagrant.d/insecure_private_key
 * Save private key as C:/Users/_username_/.vagrant.d/docker.ppk
