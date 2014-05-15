@@ -7,7 +7,7 @@ Built on https://github.com/mitchellh/boot2docker-vagrant-box
 ## Steps
 ### Start the VM
 * Install Virtual Box and Vagrant
-* Download [v0.5.4-1/boot2docker_virtualbox.box](https://github.com/mitchellh/boot2docker-vagrant-box/releases/download/v0.5.4-1/boot2docker_virtualbox.box) to _THIS-PROJECT_/../v0.5.4-1/
+* Download [v0.8.0/boot2docker_virtualbox.box](https://github.com/mitchellh/boot2docker-vagrant-box/releases/download/v0.8.0/boot2docker_virtualbox.box) to _THIS-PROJECT_/../v0.8.0/
 * Checkout this project
 * `vagrant up`
 
